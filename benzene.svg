@@ -4,32 +4,32 @@
 
   <path d="M 100 30 L 160.62 65"
     fill="transparent" stroke="black" stroke-width="4" stroke-linecap="round">
-    <animate attributeName="stroke-opacity" values="1;0;1" dur="{dur}s" repeatCount="indefinite" />
+    <animate attributeName="stroke-opacity" values="1;0;1" dur="5s" repeatCount="indefinite" />
   </path>
   
   <path d="M 160.62 65 L 160.62 135"
     fill="transparent" stroke="black" stroke-width="4" stroke-linecap="round">
-    <animate attributeName="stroke-opacity" values="0;1;0" dur="{dur}s" repeatCount="indefinite" />
+    <animate attributeName="stroke-opacity" values="0;1;0" dur="5s" repeatCount="indefinite" />
   </path>
 
   <path d="M 160.62 135 L 100 170"
     fill="transparent" stroke="black" stroke-width="4" stroke-linecap="round">
-    <animate attributeName="stroke-opacity" values="1;0;1" dur="{dur}s" repeatCount="indefinite" />
+    <animate attributeName="stroke-opacity" values="1;0;1" dur="5s" repeatCount="indefinite" />
   </path>
   
   <path d="M 100 170 L 39.38 135"
     fill="transparent" stroke="black" stroke-width="4" stroke-linecap="round">
-    <animate attributeName="stroke-opacity" values="0;1;0" dur="{dur}s" repeatCount="indefinite" />
+    <animate attributeName="stroke-opacity" values="0;1;0" dur="5s" repeatCount="indefinite" />
   </path>
 
   <path d="M 39.38 135 L 39.38 65"
     fill="transparent" stroke="black" stroke-width="4" stroke-linecap="round">
-    <animate attributeName="stroke-opacity" values="1;0;1" dur="{dur}s" repeatCount="indefinite" />
+    <animate attributeName="stroke-opacity" values="1;0;1" dur="5s" repeatCount="indefinite" />
   </path>
 
   <path d="M 39.38 65 L 100 30"
     fill="transparent" stroke="black" stroke-width="4" stroke-linecap="round">
-    <animate attributeName="stroke-opacity" values="0;1;0" dur="{dur}s" repeatCount="indefinite" />
+    <animate attributeName="stroke-opacity" values="0;1;0" dur="5s" repeatCount="indefinite" />
   </path>
   
   <text x="100" y="220" font-family="Verdana" font-size="2em" text-anchor="middle">
