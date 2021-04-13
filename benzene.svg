@@ -1,5 +1,4 @@
-<svg width="200" height="250">
-
+<svg width="200" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg">
   <path d="M 100 16 L 172.75 58 L 172.75 142 L 100 184 L 27.25 142 L 27.25 58 Z"
     fill="transparent" stroke="black" stroke-width="4" />
 
